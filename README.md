@@ -19,3 +19,5 @@ Futtatás:
 graph LR
     A[conveyor_node] -->|/conveyor_belt - std_msgs/String| B[inspector_node]
 ```
+
+
