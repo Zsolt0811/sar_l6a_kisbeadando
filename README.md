@@ -15,9 +15,5 @@ Futtatás:
 3. source install/setup.bash
 4. ros2 launch sar_l6a_kisbeadando beadando.launch.py
 
-```mermaid
-graph LR
-    A[conveyor_node] -->|/conveyor_belt - std_msgs/String| B[inspector_node]
-```
 
 
