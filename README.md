@@ -7,6 +7,7 @@ Működés Leírása:
 2. inspector_node: Feliratkozik a 'conveyor_belt' topicra. Normál alkatrész esetén jóváhagyja azt, selejt esetén pedig figyelmeztet.
 
 Futtatás:
+```bash
 1. cd ~/ros2_ws/src
    git clone [https://github.com/Zsolt0811/sar_l6a_kisbeadando.git](https://github.com/Zsolt0811/sar_l6a_kisbeadando.git)
 2. cd ~/ros2_ws
